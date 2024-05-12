@@ -1,0 +1,1 @@
+# A script to monitor the battery status and draining time for my Laptop.
